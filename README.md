@@ -6,6 +6,7 @@ application up and running.
 ## Deployments
 * Auto deploys to Heroku enabled.
 * Review apps enabled.
+* Staging app in the pipeline. 
 
 Things you may want to cover:
 
