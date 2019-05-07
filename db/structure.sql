@@ -12,7 +12,7 @@ SET row_security = off;
 -- Name: DATABASE postgres; Type: COMMENT; Schema: -; Owner: -
 --
 
-COMMENT ON DATABASE postgres IS 'default administrative connection database';
+-- COMMENT ON DATABASE postgres IS 'default administrative connection database';
 
 
 --
